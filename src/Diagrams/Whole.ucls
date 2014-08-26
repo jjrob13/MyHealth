@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.5" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="Control.MeasurementTypeControl" project="MyHealth" 
+    file="/MyHealth/src/Control/MeasurementTypeControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="425" x="1806" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="2" language="java" name="Communicators" project="MyHealth" file="/MyHealth/src/Communicators" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="134" x="289" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="3" language="java" name="Communicators.HealthMeasurementsDataCommunicator" project="MyHealth" 
+    file="/MyHealth/src/Communicators/HealthMeasurementsDataCommunicator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="360" x="3762" y="1354"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Control.HealthMeasurementCollectionControl" project="MyHealth" 
+    file="/MyHealth/src/Control/HealthMeasurementCollectionControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="647" x="4493" y="1354"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="5" language="java" name="Tests" project="MyHealth" file="/MyHealth/src/Tests" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="463" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="6" language="java" name="Control.HealthMeasurementControl" project="MyHealth" 
+    file="/MyHealth/src/Control/HealthMeasurementControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="455" x="3783" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Control.MeasurementTypeCollectionControl" project="MyHealth" 
+    file="/MyHealth/src/Control/MeasurementTypeCollectionControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="617" x="1511" y="1354"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Model.AccountProfile" project="MyHealth" 
+    file="/MyHealth/src/Model/AccountProfile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="466" width="257" x="4762" y="2746"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Main" project="MyHealth" file="/MyHealth/src/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="124" width="130" x="885" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="10" language="java" name="Model" project="MyHealth" file="/MyHealth/src/Model" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1055" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="11" language="java" name="graphGenerators.LineGraphFactory" project="MyHealth" 
+    file="/MyHealth/src/graphGenerators/LineGraphFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="394" width="231" x="2682" y="920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="Interfaces.IDataCommunicator" project="MyHealth" 
+    file="/MyHealth/src/Interfaces/IDataCommunicator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="259" x="3463" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <package id="13" language="java" name="Control" project="MyHealth" file="/MyHealth/src/Control" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1217" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="14" language="java" name="View.AccountView" project="MyHealth" file="/MyHealth/src/View/AccountView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="168" x="3058" y="2222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="GUI.HelpTab" project="MyHealth" file="/MyHealth/src/GUI/HelpTab.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="190" x="4056" y="396"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Model.Report" project="MyHealth" file="/MyHealth/src/Model/Report.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="222" x="1379" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="View.MeasurementTypeCollectionView" project="MyHealth" 
+    file="/MyHealth/src/View/MeasurementTypeCollectionView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="304" x="1462" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="View.AccountProfileView" project="MyHealth" 
+    file="/MyHealth/src/View/AccountProfileView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="204" x="4802" y="2222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Control.AuthenticationControl" project="MyHealth" 
+    file="/MyHealth/src/Control/AuthenticationControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="286" x="2553" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="graphGenerators.MyHealthGraphs" project="MyHealth" 
+    file="/MyHealth/src/graphGenerators/MyHealthGraphs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="484" width="248" x="2953" y="396"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Control.GoalControl" project="MyHealth" 
+    file="/MyHealth/src/Control/GoalControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="221" x="2271" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="Interfaces.IDataTab" project="MyHealth" 
+    file="/MyHealth/src/Interfaces/IDataTab.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="254" x="1891" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <package id="23" language="java" name="GUI" project="MyHealth" file="/MyHealth/src/GUI" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="2185" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="24" language="java" name="Communicators.GoalDataCommunicator" project="MyHealth" 
+    file="/MyHealth/src/Communicators/GoalDataCommunicator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="206" x="2311" y="2222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="25" language="java" name="Interfaces" project="MyHealth" file="/MyHealth/src/Interfaces" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="2347" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="26" language="java" name="Communicators.AccountProfileDataCommunicator" project="MyHealth" 
+    file="/MyHealth/src/Communicators/AccountProfileDataCommunicator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="291" x="4162" y="1354"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="Control.AccountControl" project="MyHealth" 
+    file="/MyHealth/src/Control/AccountControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="628" width="502" x="2900" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="View.MeasurementTypeView" project="MyHealth" 
+    file="/MyHealth/src/View/MeasurementTypeView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="226" x="1806" y="2222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="29" language="java" name="Diagrams" project="MyHealth" file="/MyHealth/src/Diagrams" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="2509" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="30" language="java" name="Communicators.GeneralDataCommunicator" project="MyHealth" 
+    file="/MyHealth/src/Communicators/GeneralDataCommunicator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="280" x="3233" y="920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="31" language="java" name="Interfaces.IDataControl" project="MyHealth" 
+    file="/MyHealth/src/Interfaces/IDataControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="127" x="3266" y="2222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="32" language="java" name="Model.HealthMeasurement" project="MyHealth" 
+    file="/MyHealth/src/Model/HealthMeasurement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="368" x="2859" y="2746"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="Model.Goal" project="MyHealth" file="/MyHealth/src/Model/Goal.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="228" x="2311" y="2746"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="34" language="java" name="" project="MyHealth" file="/MyHealth/src" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="2671" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="35" language="java" name="Communicators.AccountDataCommunicator" project="MyHealth" 
+    file="/MyHealth/src/Communicators/AccountDataCommunicator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="259" x="3463" y="1354"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="36" language="java" name="graphGenerators" project="MyHealth" file="/MyHealth/src/graphGenerators" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="146" x="2833" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="37" language="java" name="graphGenerators.LineGraphMaker" project="MyHealth" 
+    file="/MyHealth/src/graphGenerators/LineGraphMaker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="358" x="2553" y="1354"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="GUI.AccountProfileTab" project="MyHealth" 
+    file="/MyHealth/src/GUI/AccountProfileTab.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="154" x="4162" y="920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="GUI.MyHealthRemake" project="MyHealth" 
+    file="/MyHealth/src/GUI/MyHealthRemake.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="223" x="2452" y="396"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="Model.Account" project="MyHealth" file="/MyHealth/src/Model/Account.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="484" width="461" x="2557" y="2222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="View.HealthMeasurementCollectionView" project="MyHealth" 
+    file="/MyHealth/src/View/HealthMeasurementCollectionView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="314" x="4448" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="Control.AccountProfileControl" project="MyHealth" 
+    file="/MyHealth/src/Control/AccountProfileControl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="359" x="4802" y="1554"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="43" language="java" name="View" project="MyHealth" file="/MyHealth/src/View" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="3019" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="44" language="java" name="graphGenerators.BarGraphMaker" project="MyHealth" 
+    file="/MyHealth/src/graphGenerators/BarGraphMaker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="240" x="2953" y="920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <component id="45" language="java" name="src" project="MyHealth" file="/MyHealth/src" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="43" width="137" x="3181" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </component>  
+  <class id="46" language="java" name="View.HealthMeasurementView" project="MyHealth" 
+    file="/MyHealth/src/View/HealthMeasurementView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="236" x="3783" y="2222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="GUI.InputTab" project="MyHealth" file="/MyHealth/src/GUI/InputTab.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="104" x="3762" y="920"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="Model.MeasurementType" project="MyHealth" 
+    file="/MyHealth/src/Model/MeasurementType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="212" x="2053" y="3252"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="GUI.MainGUI" project="MyHealth" file="/MyHealth/src/GUI/MainGUI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="104" x="3555" y="-20"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="50" language="java" name="Tests.TestDoubles" project="MyHealth" file="/MyHealth/src/Tests/TestDoubles" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="157" x="3358" y="-20"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <association id="52">    
+    <bendpoint x="3668" y="396"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="53" name="input"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="56" name="view"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="59" name="model"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="61">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <association id="62">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="63" name="view"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="66" name="view"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="69" name="view"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="72" name="accountProfileCommunicator"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="75" name="view"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="78" name="model"/>      
+      <multiplicity id="79" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="80">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="81">    
+    <bendpoint x="3752" y="1554"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <association id="82">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="83" name="control"/>      
+      <multiplicity id="84" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="85">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="86" name="communicator"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="88">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="89" name="lgFactory"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="91">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="92">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="93">    
+    <bendpoint x="4771" y="2222"/>    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="94" name="model"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <bendpoint x="5170" y="1354"/>    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="97" name="accountProfileControl"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="100" name="control"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="102">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <association id="103">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="104" name="view"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="106">    
+    <bendpoint x="3543" y="396"/>    
+    <bendpoint x="3543" y="920"/>    
+    <bendpoint x="3432" y="1354"/>    
+    <bendpoint x="3432" y="1554"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="107" name="control"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="109">    
+    <bendpoint x="3867" y="396"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="110" name="profile"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <bendpoint x="2062" y="2222"/>    
+    <bendpoint x="2062" y="2746"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="113" name="model"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="115">    
+    <bendpoint x="3423" y="2222"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="116" name="model"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="118">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="119" name="window"/>      
+      <multiplicity id="120" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="121">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="122" name="bgMaker"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="125" name="graphs"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="127">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <association id="128">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="129" name="type"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="131">    
+    <bendpoint x="2869" y="1554"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="132">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <realization id="133">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <association id="134">    
+    <bendpoint x="2941" y="1354"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="135" name="control"/>      
+      <multiplicity id="136" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="137">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="138" name="lgMaker"/>      
+      <multiplicity id="139" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="140">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="141" name="model"/>      
+      <multiplicity id="142" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <bendpoint x="3564" y="396"/>    
+    <bendpoint x="3564" y="920"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="144" name="communicator"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="146">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
