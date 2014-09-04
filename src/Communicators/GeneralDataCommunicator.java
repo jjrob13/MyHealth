@@ -1,6 +1,8 @@
 package Communicators;
 import java.sql.*;
 
+import DBPasswords;
+
 public class GeneralDataCommunicator {
 	
 	//data here makes it a model this class needs to be refactored
@@ -171,7 +173,7 @@ public class GeneralDataCommunicator {
 		if(con == null)
 		{
 			try {
-				con = DriverManager.getConnection("jdbc:mysql://192.254.236.69/daruma_JavaTest", "daruma_myhealth", "MyHealthCSE360");
+				con = DriverManager.getConnection(DBInfo.dbLocation, DBInfo.dbUserName, DBInfo.dbPassword);
 			} catch (SQLException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
